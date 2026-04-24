@@ -15,7 +15,7 @@ A static webpage showcasing my favourite travel destinations, built using HTML a
 📌 Project Purpose
 This project was created to practice frontend development skills such as layout design, styling, and organizing content effectively.
 
-
+live demo:https://bharathjapathi123.github.io/Favouriteplaces/
 
 ✨ Future Improvements
 - Make the website responsive for all devices
