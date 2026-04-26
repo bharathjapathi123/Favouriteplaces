@@ -18,9 +18,9 @@ This project was created to practice frontend development skills such as layout 
 live demo:https://bharathjapathi123.github.io/Favouriteplaces/
 
 ✨ Future Improvements
-- Make the website responsive for all devices
-- Add animations and hover effects
-- Convert into a dynamic webpage using JavaScript
+- Make the website responsive for all devices.
+- Add animations and hover effects.
+- Convert into a dynamic webpage using JavaScript.
 
 
 💡 Feel free to explore and give feedback!
